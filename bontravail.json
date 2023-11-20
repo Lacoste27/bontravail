@@ -1,0 +1,41 @@
+{
+    "bontravail" : {
+        "id":"",
+        "date":"",
+        "datelimite":"",
+        "priorite":"",
+        "etat":"",
+        "utilisateur":{
+            "id":"",
+            "nom":"",
+            "prenom":"",
+            "email":"",
+            "service":"",
+            "poste":"",
+            "role" :["Administrateur","Responsable","Technicien"]
+        },
+        "commentaire":[
+            {
+                "id":"",
+                "date":"",
+                "utilisateur":"",
+                "commentaire":""
+            }
+        ],
+        "responsable" :[
+            {
+                "id":"",
+                "nom":"",
+                "prenom":"",
+                "email":"",
+                "service":"",
+                "poste":"",
+                "role" :["Responsable","Technicien"]
+            }
+        ],
+        "zone":"",
+        "souszone":"",
+        "updated_at":"",
+        "created_at":""
+    }
+}
